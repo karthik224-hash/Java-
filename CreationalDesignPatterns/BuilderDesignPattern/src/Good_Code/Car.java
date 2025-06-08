@@ -49,7 +49,6 @@ public class Car {
             this.color = color;
             return this;
         }
-
         public CarBuilder setSunroof(boolean sunroof) {
             this.sunroof = sunroof;
             return this;
